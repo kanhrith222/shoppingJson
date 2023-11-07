@@ -1,8 +1,14 @@
 {
   "data": [
     {
-      "icon": null,
-      "image": null,
+      "image": {
+        "id": "img-cat-1",
+        "url": "https://nopmengkoung.github.io/w-mock/assets/category-1.png"
+      },
+      "icon": {
+        "id": "img-cat-banner-1",
+        "url": "https://nopmengkoung.github.io/w-mock/assets/category-banner-1.png"
+      },
       "id": "pcat_01HDQD85CTS3XEYZE6AXEVE675",
       "name": "Fashions",
       "rank": 0,
@@ -30,8 +36,14 @@
       ]
     },
     {
-      "icon": null,
-      "image": null,
+      "image": {
+        "id": "img-cat-2",
+        "url": "https://nopmengkoung.github.io/w-mock/assets/category-2.png"
+      },
+      "icon": {
+        "id": "img-cat-banner-2",
+        "url": "https://nopmengkoung.github.io/w-mock/assets/category-banner-2.png"
+      },
       "id": "pcat_01HDQCQJJ2N33Q1HV0AH439N6B",
       "name": "Electronic",
       "rank": 1,
@@ -59,8 +71,14 @@
       ]
     },
     {
-      "icon": null,
-      "image": null,
+     "image": {
+        "id": "img-cat-3",
+        "url": "https://nopmengkoung.github.io/w-mock/assets/category-3.png"
+      },
+      "icon": {
+        "id": "img-cat-banner-3",
+        "url": "https://nopmengkoung.github.io/w-mock/assets/category-banner-3.png"
+      },
       "id": "pcat_01HDQCWJ1X4T0SKB6C2E1N51YH",
       "name": "Home & Living",
       "rank": 2,
@@ -88,8 +106,14 @@
       ]
     },
     {
-      "icon": null,
-      "image": null,
+      "image": {
+        "id": "img-cat-4",
+        "url": "https://nopmengkoung.github.io/w-mock/assets/category-4.png"
+      },
+      "icon": {
+        "id": "img-cat-banner-4",
+        "url": "https://nopmengkoung.github.io/w-mock/assets/category-banner-4.png"
+      },
       "id": "pcat_01HDQCXXT0DHWJW2T9YMHXB96G",
       "name": "Sports & Outdoors",
       "rank": 1,
@@ -117,8 +141,14 @@
       ]
     },
     {
-      "icon": null,
-      "image": null,
+      "image": {
+        "id": "img-cat-5",
+        "url": "https://nopmengkoung.github.io/w-mock/assets/category-5.png"
+      },
+      "icon": {
+        "id": "img-cat-banner-5",
+        "url": "https://nopmengkoung.github.io/w-mock/assets/category-banner-5.png"
+      },
       "id": "pcat_01HDQCY45JVD4T3QSY7JW8BC2T",
       "name": "Books & Media",
       "rank": 3,
@@ -146,8 +176,14 @@
       ]
     },
     {
-      "icon": null,
-      "image": null,
+      "image": {
+        "id": "img-cat-4",
+        "url": "https://nopmengkoung.github.io/w-mock/assets/category-6.png"
+      },
+      "icon": {
+        "id": "img-cat-banner-6",
+        "url": "https://nopmengkoung.github.io/w-mock/assets/category-banner-6.png"
+      },
       "id": "pcat_01HDQCWV1KZ9N2KZG1VH2HZHJH",
       "name": "Toys & Games",
       "rank": 2,
