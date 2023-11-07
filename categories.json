@@ -313,5 +313,35 @@
         "rank": 3
       }
     ]
+  },
+  {
+    "image": {
+      "id": "img-cat-10",
+      "url": "https://nopmengkoung.github.io/w-mock/assets/category-6.png"
+    },
+    "icon": {
+      "id": "img-cat-banner-10",
+      "url": "https://nopmengkoung.github.io/w-mock/assets/category-banner-6.png"
+    },
+    "id": "pcat_01HDQCYV6JZYC0F2GAG1N9Y8Y1",
+    "name": "Supplies",
+    "rank": 7,
+    "category_children": [
+      {
+        "id": "pcat_01HDQCY98JJN2EWY4H01Z9SDH2",
+        "name": "Dog Supplies",
+        "rank": 0
+      },
+      {
+        "id": "pcat_01HDQCWJZSGEW3QH32XGPJGNCS",
+        "name": "Cat Supplies",
+        "rank": 1
+      },
+      {
+        "id": "pcat_01HDQCX76MZ58E814W9321Y3W7",
+        "name": "Bird Supplies",
+        "rank": 2
+      }
+    ]
   }
 ]
