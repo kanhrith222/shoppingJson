@@ -1,5 +1,5 @@
 {
-  "categories": [
+  "data": [
     {
       "image": {
         "id": "img-cat-1",
@@ -71,7 +71,7 @@
       ]
     },
     {
-     "image": {
+      "image": {
         "id": "img-cat-3",
         "url": "https://nopmengkoung.github.io/w-mock/assets/category-3.png"
       },
@@ -209,3 +209,6 @@
           "rank": 3
         }
       ]
+    }
+  ]
+}
