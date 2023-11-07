@@ -343,5 +343,35 @@
         "rank": 2
       }
     ]
+  },
+  {
+    "image": {
+      "id": "img-cat-10",
+      "url": "https://nopmengkoung.github.io/w-mock/assets/category-8.png"
+    },
+    "icon": {
+      "id": "img-cat-banner-10",
+      "url": "https://nopmengkoung.github.io/w-mock/assets/category-banner-8.png"
+    },
+    "id": "pcat_01HDQCYV6JZYC0F2GAG1N9Y8Y1",
+    "name": "Electronic",
+    "rank": 7,
+    "category_children": [
+      {
+        "id": "pcat_01HDQCY98JJN2EWY4H01Z9SDH2",
+        "name": "IPHONE",
+        "rank": 0
+      },
+      {
+        "id": "pcat_01HDQCWJZSGEW3QH32XGPJGNCS",
+        "name": "SAMSUNG",
+        "rank": 1
+      },
+      {
+        "id": "pcat_01HDQCX76MZ58E814W9321Y3W7",
+        "name": "OPPO",
+        "rank": 2
+      }
+    ]
   }
 ]
