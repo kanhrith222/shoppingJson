@@ -3,14 +3,19 @@
     "types": [
       {
         "image": null,
-        "id": "pcol_01HDQZN7K0SM14AQ03VW3CHNQ6",
+        "id": "pcol_01HDQZN7K0SM14AQ03VW3CHNQ6WO",
         "value": "Phone"
+      },
+      {
+        "image": null,
+        "id": "pcol_01HDQZN7K0SM14AQ03VW3CHNQUE",
+        "value": "Watch"
       }
     ],
     "collections": [
       {
         "logo": null,
-        "id": "pcol_01HDQZN7K0SM14AQ03VW3CHNA6",
+        "id": "pcol_01HDQZN7K0SM14AQ03VW3CHNA6SU",
         "title": "Apple"
       }
     ]
