@@ -37,34 +37,24 @@
   {
     "image": {
       "id": "img-cat-2",
-      "url": "https://nopmengkoung.github.io/w-mock/assets/category-2.png"
+      "url": "https://example.com/category-2.png"
     },
     "icon": {
       "id": "img-cat-banner-2",
-      "url": "https://nopmengkoung.github.io/w-mock/assets/category-banner-2.png"
+      "url": "https://example.com/category-banner-2.png"
     },
-    "id": "pcat_01HDQCQJJ2N33Q1HV0AH439N6B",
-    "name": "Electronic",
+    "id": "pcat_02ABCXYZ123",
+    "name": "Electronics",
     "rank": 1,
     "category_children": [
       {
-        "id": "pcat_01HDQCY98JJN2EWY4H01Z9SDGE",
-        "name": "Projector",
-        "rank": 3
-      },
-      {
-        "id": "pcat_01HDQCWJZSGEW3QH32XGPJGRDF",
-        "name": "Phone & Tablets",
-        "rank": 0
-      },
-      {
-        "id": "pcat_01HDQCX76MZ58E814W9321YPIV",
-        "name": "Computer",
+        "id": "pcat_02ABCXYZ456",
+        "name": "Smartphones",
         "rank": 1
       },
       {
-        "id": "pcat_01HDQCY3D2VXSW0D2YHS2GFFTV",
-        "name": "Accessories & Components",
+        "id": "pcat_02ABCXYZ789",
+        "name": "Laptops",
         "rank": 2
       }
     ]
@@ -72,274 +62,174 @@
   {
     "image": {
       "id": "img-cat-3",
-      "url": "https://nopmengkoung.github.io/w-mock/assets/category-3.png"
+      "url": "https://example.com/category-3.png"
     },
     "icon": {
       "id": "img-cat-banner-3",
-      "url": "https://nopmengkoung.github.io/w-mock/assets/category-banner-3.png"
+      "url": "https://example.com/category-banner-3.png"
     },
-    "id": "pcat_01HDQCWJ1X4T0SKB6C2E1N51YH",
-    "name": "Home & Living",
+    "id": "pcat_03XYZ123456",
+    "name": "Home and Garden",
     "rank": 2,
     "category_children": [
       {
-        "id": "pcat_01HDQCY98JJN2EWY4H01ZHGDD",
+        "id": "pcat_03XYZ789012",
         "name": "Furniture",
-        "rank": 0
-      },
-      {
-        "id": "pcat_01HDQCWJZSGEW3QH32XGPOIGBV",
-        "name": "Kitchen Appliances",
         "rank": 1
       },
       {
-        "id": "pcat_01HDQCX76MZ58E814W932JGYFGG",
-        "name": "Bedding & Linens",
+        "id": "pcat_03XYZ345678",
+        "name": "Kitchen Appliances",
         "rank": 2
-      },
-      {
-        "id": "pcat_01HDQCY3D2VXSW0D2YHS2GJGFBN",
-        "name": "Decor",
-        "rank": 3
       }
     ]
   },
   {
     "image": {
       "id": "img-cat-4",
-      "url": "https://nopmengkoung.github.io/w-mock/assets/category-4.png"
+      "url": "https://example.com/category-4.png"
     },
     "icon": {
       "id": "img-cat-banner-4",
-      "url": "https://nopmengkoung.github.io/w-mock/assets/category-banner-4.png"
+      "url": "https://example.com/category-banner-4.png"
     },
-    "id": "pcat_01HDQCXXT0DHWJW2T9YMHXB96G",
-    "name": "Sports & Outdoors",
-    "rank": 9,
+    "id": "pcat_04ABCDEF123",
+    "name": "Sports and Outdoors",
+    "rank": 3,
     "category_children": [
       {
-        "id": "pcat_01HDQCY98JJN2EWY4H01JKHHG",
-        "name": "Outdoor Gear",
-        "rank": 0
-      },
-      {
-        "id": "pcat_01HDQCWJZSGEW3QH32XGPJBGDV",
-        "name": "Fitness Equipment",
+        "id": "pcat_04ABCDEF456",
+        "name": "Fitness",
         "rank": 1
       },
       {
-        "id": "pcat_01HDQCX76MZ58E814W932VFFTC",
-        "name": "Team Sports",
+        "id": "pcat_04ABCDEF789",
+        "name": "Camping",
         "rank": 2
-      },
-      {
-        "id": "pcat_01HDQCY3D2VXSW0D2YHS2BNHFJ",
-        "name": "Camping & Hiking",
-        "rank": 3
       }
     ]
   },
   {
     "image": {
       "id": "img-cat-5",
-      "url": "https://nopmengkoung.github.io/w-mock/assets/category-5.png"
+      "url": "https://example.com/category-5.png"
     },
     "icon": {
       "id": "img-cat-banner-5",
-      "url": "https://nopmengkoung.github.io/w-mock/assets/category-banner-5.png"
+      "url": "https://example.com/category-banner-5.png"
     },
-    "id": "pcat_01HDQCY45JVD4T3QSY7JW8BC2T",
-    "name": "Books & Media",
-    "rank": 3,
+    "id": "pcat_05LMNOP789",
+    "name": "Books",
+    "rank": 4,
     "category_children": [
       {
-        "id": "pcat_01HDQCY98JJN2EWY4H0YHHHJG",
-        "name": "Fiction Books",
-        "rank": 0
-      },
-      {
-        "id": "pcat_01HDQCWJZSGEW3QH32XGPOJBJ",
-        "name": "Non-Fiction Books",
+        "id": "pcat_05LMNOP123",
+        "name": "Fiction",
         "rank": 1
       },
       {
-        "id": "pcat_01HDQCX76MZ58E814W932UKHH",
-        "name": "Movies & TV Shows",
+        "id": "pcat_05LMNOP456",
+        "name": "Non-fiction",
         "rank": 2
-      },
-      {
-        "id": "pcat_01HDQCY3D2VXSW0D2YHSJHKJU",
-        "name": "Music",
-        "rank": 3
       }
     ]
   },
   {
     "image": {
       "id": "img-cat-6",
-      "url": "https://nopmengkoung.github.io/w-mock/assets/category-7.png"
+      "url": "https://example.com/category-6.png"
     },
     "icon": {
-      "id": "img-cat-banner-7",
-      "url": "https://nopmengkoung.github.io/w-mock/assets/category-banner-7.png"
+      "id": "img-cat-banner-6",
+      "url": "https://example.com/category-banner-6.png"
     },
-    "id": "pcat_01HDQCY5XVH2EWNTVZEX51NE18",
-    "name": "Beauty & Personal Care",
-    "rank": 4,
+    "id": "pcat_06PQRST123",
+    "name": "Toys and Games",
+    "rank": 5,
     "category_children": [
       {
-        "id": "pcat_01HDQCY98JJN2EWY4H01ZJHGNC",
-        "name": "Men's Grooming",
-        "rank": 0
-      },
-      {
-        "id": "pcat_01HDQCWJZSGEW3QH32XGPJIBJCYG",
-        "name": "Skin Care",
+        "id": "pcat_06PQRST456",
+        "name": "Action Figures",
         "rank": 1
       },
       {
-        "id": "pcat_01HDQCX76MZ58E814W93JHBCY",
-        "name": "Hair Care",
+        "id": "pcat_06PQRST789",
+        "name": "Board Games",
         "rank": 2
-      },
-      {
-        "id": "pcat_01HDQCY3D2VXSW0D2YHSBHJGI",
-        "name": "Fragrances",
-        "rank": 3
       }
     ]
   },
   {
     "image": {
       "id": "img-cat-7",
-      "url": "https://nopmengkoung.github.io/w-mock/assets/category-8.png"
+      "url": "https://example.com/category-7.png"
     },
     "icon": {
-      "id": "img-cat-banner-8",
-      "url": "https://nopmengkoung.github.io/w-mock/assets/category-banner-8.png"
+      "id": "img-cat-banner-7",
+      "url": "https://example.com/category-banner-7.png"
     },
-    "id": "pcat_01HDQCZW6G9XJ8E1H46VZN6NSD",
-    "name": "Home Improvement",
-    "rank": 5,
+    "id": "pcat_07UVWXYZ123",
+    "name": "Health and Beauty",
+    "rank": 6,
     "category_children": [
       {
-        "id": "pcat_01HDQCY98JJN2EWY4H010JHIK",
-        "name": "Tools & Hardware",
-        "rank": 0
-      },
-      {
-        "id": "pcat_01HDQCWJZSGEW3QH32XGPCHUW",
-        "name": "Plumbing",
+        "id": "pcat_07UVWXYZ456",
+        "name": "Skincare",
         "rank": 1
       },
       {
-        "id": "pcat_01HDQCX76MZ58E814W932YWIUBC",
-        "name": "Electrical",
+        "id": "pcat_07UVWXYZ789",
+        "name": "Makeup",
         "rank": 2
-      },
-      {
-        "id": "pcat_01HDQCY3D2VXSW0D2YHS2GOIWQ",
-        "name": "Paint & Supplies",
-        "rank": 3
       }
     ]
   },
   {
     "image": {
       "id": "img-cat-8",
-      "url": "https://nopmengkoung.github.io/w-mock/assets/category-9.png"
+      "url": "https://example.com/category-8.png"
     },
     "icon": {
-      "id": "img-cat-banner-9",
-      "url": "https://nopmengkoung.github.io/w-mock/assets/category-banner-9.png"
+      "id": "img-cat-banner-8",
+      "url": "https://example.com/category-banner-8.png"
     },
-    "id": "pcat_01HDQCX3WT6ZV5NPT2NE0WVRWW",
-    "name": "Health & Wellness",
-    "rank": 6,
+    "id": "pcat_08WXYZABC",
+    "name": "Automotive",
+    "rank": 7,
     "category_children": [
       {
-        "id": "pcat_01HDQCY98JJN2EWY4H01Z9IUWC",
-        "name": "Vitamins & Supplements",
-        "rank": 0
-      },
-      {
-        "id": "pcat_01HDQCWJZSGEW3QH32XGPWUHCU",
-        "name": "Fitness & Exercise",
+        "id": "pcat_08WXYZDEF",
+        "name": "Car Accessories",
         "rank": 1
       },
       {
-        "id": "pcat_01HDQCX76MZ58E814W9321KUJWO",
-        "name": "Personal Care",
+        "id": "pcat_08WXYZGHI",
+        "name": "Tires",
         "rank": 2
-      },
-      {
-        "id": "pcat_01HDQCY3D2VXSW0D2YHS2IUQWOND",
-        "name": "Wellness Books",
-        "rank": 3
       }
     ]
   },
   {
     "image": {
       "id": "img-cat-9",
-      "url": "https://nopmengkoung.github.io/w-mock/assets/category-10.png"
+      "url": "https://example.com/category-9.png"
     },
     "icon": {
-      "id": "img-cat-banner-10",
-      "url": "https://nopmengkoung.github.io/w-mock/assets/category-banner-10.png"
+      "id": "img-cat-banner-9",
+      "url": "https://example.com/category-banner-9.png"
     },
-    "id": "pcat_01HDQCYV6JZYC0F2GAG1N9Y8Y1",
-    "name": "Pet Supplies",
-    "rank": 7,
+    "id": "pcat_09DEFGHIJK",
+    "name": "Jewelry",
+    "rank": 8,
     "category_children": [
       {
-        "id": "pcat_01HDQCY98JJN2EWY4H01ZIUWOHIC",
-        "name": "Dog Supplies",
-        "rank": 0
-      },
-      {
-        "id": "pcat_01HDQCWJZSGEW3QH32IKUWC",
-        "name": "Cat Supplies",
+        "id": "pcat_09LMNOPQRS",
+        "name": "Necklaces",
         "rank": 1
       },
       {
-        "id": "pcat_01HDQCX76MZ58E814W9IWUNCW",
-        "name": "Bird Supplies",
-        "rank": 2
-      },
-      {
-        "id": "pcat_01HDQCY3D2VXSW0D2YHSIOCNIW",
-        "name": "Small Animal Supplies",
-        "rank": 3
-      }
-    ]
-  },
-  {
-    "image": {
-      "id": "img-cat-10",
-      "url": "https://nopmengkoung.github.io/w-mock/assets/category-6.png"
-    },
-    "icon": {
-      "id": "img-cat-banner-10",
-      "url": "https://nopmengkoung.github.io/w-mock/assets/category-banner-6.png"
-    },
-    "id": "pcat_01HDQCYV6JZYC0F2GAG1NYY8O1",
-    "name": "Supplies",
-    "rank": 7,
-    "category_children": [
-      {
-        "id": "pcat_01HDQCY98JJN2EWY4H01ZWHCIOWI",
-        "name": "Dog Supplies",
-        "rank": 0
-      },
-      {
-        "id": "pcat_01HDQCWJZSGEW3QH32XWCWJW",
-        "name": "Cat Supplies",
-        "rank": 1
-      },
-      {
-        "id": "pcat_01HDQCX76MZ58E814W93QOIJD9",
-        "name": "Bird Supplies",
+        "id": "pcat_09TUVWXYZA",
+        "name": "Rings",
         "rank": 2
       }
     ]
@@ -347,29 +237,24 @@
   {
     "image": {
       "id": "img-cat-10",
-      "url": "https://nopmengkoung.github.io/w-mock/assets/category-8.png"
+      "url": "https://example.com/category-10.png"
     },
     "icon": {
       "id": "img-cat-banner-10",
-      "url": "https://nopmengkoung.github.io/w-mock/assets/category-banner-8.png"
+      "url": "https://example.com/category-banner-10.png"
     },
-    "id": "pcat_01HDQCYV6JZYC0F2GAG1N9Y8Z1",
-    "name": "Electronic",
-    "rank": 7,
+    "id": "pcat_10JKLMNOPQR",
+    "name": "Art and Crafts",
+    "rank": 9,
     "category_children": [
       {
-        "id": "pcat_01HDQCY98JJN2EWY4H01ZBCUWCC",
-        "name": "IPHONE",
-        "rank": 0
-      },
-      {
-        "id": "pcat_01HDQCWJZSGEW3QH32XGPJGWDCBUWC",
-        "name": "SAMSUNG",
+        "id": "pcat_10STUVWXYZ",
+        "name": "Painting",
         "rank": 1
       },
       {
-        "id": "pcat_01HDQCX76MZ58E814W9IWBCWI",
-        "name": "OPPO",
+        "id": "pcat_10ABCDEFGH",
+        "name": "Sculpture",
         "rank": 2
       }
     ]
